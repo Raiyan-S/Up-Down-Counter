@@ -43,6 +43,7 @@ This BCD to seven-segment decoder includes four input lines (A, B, C, and D) and
 lines (a, b, c, d, e, f, and g). This output is provided to a seven-segment LED display that shows
 the decimal number based on inputs.
 
+![](https://github.com/Raiyan-S/Up-Down-Counter/blob/main/BCD.png)
 
 ## Counters
 
@@ -115,6 +116,8 @@ VCR clock.
 ```
 ## Design Steps (Counter-Up/Down)
 
+![](https://github.com/Raiyan-S/Up-Down-Counter/blob/main/Pins%20and%20Functions.png)
+
 ```
 1 - Implement two 4-bit counting registers.
 2 - Implement two 4-bit LED displays.
@@ -141,6 +144,11 @@ leading-edge trigger.
 ```
 ## Circuit layout and implementation
 
+![](https://github.com/Raiyan-S/Up-Down-Counter/blob/main/Circuit%20layout.png)
+
+## Test
+
+![](https://github.com/Raiyan-S/Up-Down-Counter/blob/main/CedarLogic.gif)
 
 ## Conclusion
 
