@@ -72,7 +72,7 @@ the "Modulus" or "MOD" of the counter. The maximum number of states a counter ca
 have is 2n, where n is the number of flip-flops used in the counter.
 
 For example, if we have 2 flip-flops, the maximum number of counter outputs is 4, i.e.22.
-So, it is called "MOD-4 counter" or "Modulus 4 counter".
+So, it is called the "MOD-4 counter" or "Modulus 4 counter".
 
 ### Synchronous Counter
 
@@ -80,7 +80,7 @@ So, it is called "MOD-4 counter" or "Modulus 4 counter".
 simultaneously with the same clock and the synchronous counter runs faster than the
 asynchronous counter.
 
-* The result of this synchronization is that all the individual output bits changing state at
+* The result of this synchronization is that all the individual output bits change state at
 the same time in response to the common clock signal with no ripple effect and therefore,
 no propagation delay.
 
